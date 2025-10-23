@@ -7,7 +7,7 @@
     },
     "footer": {
       "technologies": ["Vue", "TypeScript", "Vuetify", "Firebase"],
-      "urls": {"demo": "https://github.com/yovany-dev/indupasa-reportes-demo", "github": "https://github.com/yovany-dev/indupasa-reportes-demo"}
+      "urls": {"demo": "https://indupasa-reportes.web.app/login", "github": "https://github.com/yovany-dev/indupasa-reportes"}
     }
   },
   {
